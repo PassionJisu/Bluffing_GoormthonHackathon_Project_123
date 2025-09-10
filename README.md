@@ -1,5 +1,5 @@
-# 🚀 Hackathon Project: [Blffuing]
-(image/87-디벨로핑-발표자료_page-0001.jpg)
+<div align="center"># 🚀 Hackathon Project: [Blffuing]</div>
+![슬라이드 1: 프로젝트 소개](image/87-디벨로핑-발표자료_page-0001.jpg)
 ---
 
 ## ✨ Features
