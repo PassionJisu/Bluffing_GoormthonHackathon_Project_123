@@ -1,0 +1,45 @@
+# src/main/resources/application.yaml
+spring:
+  profiles:
+    active: dev
+
+  datasource:
+    url: jdbc:mysql://${DB_HOST}:3306/bluffing?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul&useSSL=false&allowPublicKeyRetrieval=true
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: create # 운영 환경에서는 create 대신 update 또는 validate 사용
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+        format_sql: true
+        use_sql_comments: false
+        jdbc.time_zone: Asia/Seoul
+    open-in-view: false
+    show-sql: true
+
+server:
+  timezone: Asia/Seoul
+  servlet:
+    encoding:
+      charset: UTF-8
+      force: true
+      enabled: true
+
+logging:
+  level:
+    org.springframework.web.socket: DEBUG
+    org.springframework.messaging: DEBUG
+    org.springframework.security: DEBUG
+
+jwt:
+  issuer: "bluffing-api"
+  access:
+    secret: "VyBaM1g3GVOBJAs4DJf8/U1WnDBftsE+xzcYUdBYZOI="
+    ttl: "P1D" #"PT15M" # 15분
+  refresh:
+    secret: "k3GcE4phxTGdcr6xWcIvOQ84jaHVRb3227zX93PxuJY="
+    ttl: "P7D" # 7일
