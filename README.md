@@ -10,9 +10,8 @@
 
 ## 📊 Documents
 
-- 📘 [Notion](https://notion.so/your-link)
-- 🎨 [Figma](https://figma.com/file/your-link)
-- 📑 [발표 슬라이드 (PDF)](docs/slide.pdf)
+- 📘 [Notion](https://www.notion.so/Bluffing-26224d727b6280bdbbbfdfee2114aa89)
+- 🎨 [Figma](https://www.figma.com/design/aHQksLXV7v5sy5ehJVenzp/87-%EB%94%94%EB%B2%A8%EB%A1%9C%ED%95%91-design?node-id=0-1&t=bHQGsMZ4I5possV2-1)
 
 🏆 Hackathon Info
 
