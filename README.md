@@ -1,5 +1,5 @@
 # 🚀 Hackathon Project: [Blffuing]
-
+![슬라이드 1: 프로젝트 소개](image/project_intro.jpg)
 ---
 
 ## ✨ Features
