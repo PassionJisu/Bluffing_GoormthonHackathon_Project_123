@@ -15,3 +15,15 @@
 김보민 – Designer
 
 한지수 – PM
+
+## 📊 Documents
+
+- 📘 [Notion 협업 문서](https://notion.so/your-link)
+- 🎨 [Figma 디자인 시안](https://figma.com/file/your-link)
+- 📑 [발표 슬라이드 (PDF)](docs/slide.pdf)
+
+---
+
+## ✨ Features
+- 세대 간 격차를
+
