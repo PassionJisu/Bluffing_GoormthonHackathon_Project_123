@@ -23,6 +23,6 @@
 
 김보민 - Designer
 
-김의정, 박제민 – Backend Developer
-
 김서우, 여채린 – Frontend Developer
+
+김의정, 박제민 – Backend Developer
