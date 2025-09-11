@@ -23,8 +23,8 @@
 
 한지수 - PM
 
-김보민 - Designer
+김보민 - PD
 
-김서우, 여채린 – Frontend Developer
+김서우, 여채린 – FE
 
-김의정, 박제민 – Backend Developer
+김의정, 박제민 – BE
